@@ -1,0 +1,25 @@
+﻿Exercise 17 (exercise-15-pyqtfive)
+Code Reviewer: Riomalos, Zyrrah Feil and Siervo, Jallaine Perpetua G.
+
+
+The code is clean and readable.
+
+
+Output:
+The file is running properly without errors.
+The output is correct based on the exercise requirement.
+
+
+____________________________________________________________________________
+
+
+Exercise 17 (exercise-15-los-rantones)
+Code Reviewer: Durante, Stephanie and Florido, Maydelyn
+
+
+campos.py
+When using a fixed True condition in loops, make sure the reader can identify right away when to exit the loop by writing code comment or place the break statement before the operations.
+https://docs.google.com/presentation/d/1IpJfVIL8W1JWptSXPOAlSx2S1hHtdEoIbl7fGoyrWqU/edit?slide=id.g33e1e5600f8_1_0#slide=id.g33e1e5600f8_1_0
+
+
+https://github.com/PUP-BSIT/exercise-15-los-ratones/blob/a7024bc0faaed0ae91ca583693fa44d71ffc627c/losratones/campos.py#L77-L82
